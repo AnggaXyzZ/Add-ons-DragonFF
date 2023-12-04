@@ -34,7 +34,7 @@ Berikut ini adalah daftar fitur yang didukung oleh addon
 
 ## Installation
 
-1. [Download](https://github.com/Parik27/DragonFF/archive/refs/heads/master.zip) file zip addon dari cabang master terbaru
+1. [Download](https://github.com/AnggaXyzZ/Add-ons-DragonFF.git) file zip addon dari cabang master terbaru
 2. Impor file .zip yang diunduh dengan memilihnya dari *(User) Preferences/Addons/Install from File*
 3. Setel addon "GTA DragonFF" ​​ke diaktifkan
 4. Impor dff dari tab Impor atau IPL/IFP dari panel di *Pengaturan Pemandangan*
