@@ -1,12 +1,12 @@
 # Add-ons DragonFF 👻
 
-DragonFF is a Blender Addon for import and export of GTA files. 
+DragonFF adalah Addon Blender untuk mengimpor dan mengekspor file GTA.
 
-At the moment, only Renderware files are supported. Support for formats other than .dff is planned. 
+Saat ini, hanya file Renderware yang didukung. Dukungan untuk format selain .dff direncanakan. 
 
 ## Supported Features
 
-The following is a list of supported features by the addon
+Berikut ini adalah daftar fitur yang didukung oleh addon
 
 #### File Types
 
@@ -34,14 +34,14 @@ The following is a list of supported features by the addon
 
 ## Installation
 
-1. [Download](https://github.com/Parik27/DragonFF/archive/refs/heads/master.zip) the addon zip file from the latest master branch
-2. Import the downloaded .zip file by selecting it from *(User) Preferences/Addons/Install from File*
-3. Set the addon "GTA DragonFF" to enabled
-4. Import dff from Import tab or an IPL/IFP from the panel in *Scene Settings*
+1. [Download](https://github.com/Parik27/DragonFF/archive/refs/heads/master.zip) file zip addon dari cabang master terbaru
+2. Impor file .zip yang diunduh dengan memilihnya dari *(User) Preferences/Addons/Install from File*
+3. Setel addon "GTA DragonFF" ​​ke diaktifkan
+4. Impor dff dari tab Impor atau IPL/IFP dari panel di *Pengaturan Pemandangan*
 
 ## Python Module
 
-The python scripts have been designed with reusability in mind. As of now, the dff module is standalone, and can be used with any other Python instance without the need for Blender API.
+Skrip python telah dirancang dengan mempertimbangkan penggunaan kembali. Saat ini, modul dff bersifat mandiri, dan dapat digunakan dengan instance Python lainnya tanpa memerlukan Blender API.
 
 #### Standalone Modules
 
@@ -50,11 +50,4 @@ The python scripts have been designed with reusability in mind. As of now, the d
 * [X] - COL - `col.py`
 * [X] - IPL/IDE - `map.py` (partial, experimental)
 * [ ] - IFP - `ifp.py`
-
-#### Contributors
-
-The following have contributed significantly to the project:
-
-* [swift502](https://github.com/swift502) - For the map importer.
-* [Psycrow101](https://github.com/Psycrow101) - For delta morphs importer.
 
